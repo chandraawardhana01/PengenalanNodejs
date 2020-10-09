@@ -1,7 +1,6 @@
 {
-  "name": "modul_moment",
+  "name": "modul",
   "version": "1.0.0",
-  "description": "",
   "main": "modul.js",
   "dependencies": {
     "moment": "^2.29.1"
@@ -12,5 +11,6 @@
     "start": "node modul.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
